@@ -1,4 +1,4 @@
-
+![Image 1](1.png)
 
 ## 1. What is observability?
 
