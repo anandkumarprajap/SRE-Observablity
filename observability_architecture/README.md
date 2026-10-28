@@ -1,4 +1,4 @@
-![Image 1](1.png)
+
 
 
 > **Goal:** Understand how DevOps, Site Reliability Engineering (SRE), Platform Engineering, Developers, and QA work together to keep applications reliable, fast, secure, and easy to operate.
